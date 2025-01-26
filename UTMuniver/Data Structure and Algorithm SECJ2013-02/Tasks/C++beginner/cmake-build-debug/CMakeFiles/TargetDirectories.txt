@@ -1,0 +1,3 @@
+/Users/ruslanzagidullin/Desktop/UTMuniver/Data Structure and Algorithm SECJ2013-02/C++beginner/cmake-build-debug/CMakeFiles/C__beginner.dir
+/Users/ruslanzagidullin/Desktop/UTMuniver/Data Structure and Algorithm SECJ2013-02/C++beginner/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/ruslanzagidullin/Desktop/UTMuniver/Data Structure and Algorithm SECJ2013-02/C++beginner/cmake-build-debug/CMakeFiles/rebuild_cache.dir
