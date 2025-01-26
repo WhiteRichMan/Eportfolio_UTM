@@ -24,8 +24,6 @@ Studying at UTM has been a life-changing experience for me. Here’s why:
 - 👨‍🏫 **World-Class Faculty:** Learning from some of the best minds in the field.
 - 🧩 **Hands-On Learning:** From labs to real-world challenges, UTM gives me the tools to succeed.
 
-![UTM Campus](https://upload.wikimedia.org/wikipedia/commons/c/c9/Universiti_Teknologi_Malaysia_%28UTM%29_campus.jpg)  
-*The beautiful UTM campus, where learning meets innovation.*
 
 ## 📫 Let's Connect
 
